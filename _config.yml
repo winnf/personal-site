@@ -1,10 +1,10 @@
 site: Winnie
 url: 'https://winnf.github.io'
-title: Winnie
-description: Hi, I'm Winnie. BaSc in Biomedical Engineering with focus in Computer Engineering from the University of Waterloo.
-twitter:
-  username: yourusername
-  card: summary
+title: Winnie Fong
+description: Hi, I'm Winnie. I am a Biomedical Engineering graduate from the University of Waterloo, with a focus in Computer Engineering.
+# twitter:
+#   username: yourusername
+#   card: summary
 
 permalink: pretty
 
