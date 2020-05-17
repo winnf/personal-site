@@ -5,23 +5,25 @@ title: Experience
 
 # Software Engineering Program Manager @ Apple
 __Special Projects Group__, *May 2019 - Present (Full-time), Jan - Sept 2018 (Intern)*
-
-- Led the embedded software team towards feature completion and delivery of software projects by working with cross-functional teams to define project scope, gather functional requirements, develop schedules, and execute plans
-- Designed and implemented a new software process to support program milestones and established clear entrance and exit criteria for biweekly software releases
+- Led the embedded software team from project ideation to feature completion; ultimately delivered multiple successful prototype demonstrations to Apple executives
+- Wrote shell scripts to automate data extraction process; reduced extraction time by 97%
+- Designed and established a new software process to align cross functional teams across the organization, which led to timely and extensively tested software deliveries to support program milestones
 
 # Software Engineering Intern @ if(we)
 __Monetization__, *Apr - Sept 2017*
-- Took responsibility in the design and development of new backend features and ultimately shipped new live streaming features for the Tagged app, resulting in a 30% increase in DAU; used ```php``` and ```java``` on top of an ```Oracle``` database.
-- Full stack developer -- created technical specs and implemented APIs to support new monetization features, used javascript frameworks such as ```AngularJS``` and ```node.js```
-- Redesigned a popular mobile web game called Pets in the Tagged application using ```React``` and ```Redux``` by refactoring existing code and writing unit tests using the ```Mocha``` framework
+*javascript, angularJS, node.js, react, redux, mocha, CSS, HTML*
+- Shipped new live streaming features for the Tagged app, resulting in a 30% increase in daily active users
+- Created technical specifications and implemented APIs that introduced new monetization opportunities
+- Improved user experience of popular mobile game in Tagged by redesigning and porting codebase to react; optimized loading speeds by 26%
 
 # Software Engineering Intern @ Grand Rounds
 __Infrastructure__, *Sept - Dec 2016*
-- Used ```ruby on rails``` to develop a new data ingestion service by exposing RESTful APIs to an internal tool and added user filtering capabilities
-- Optimized automation tests to run 3x faster using the RSpec framework, leading to a more reliable and robust testing suite
+*ruby on rails, rspec*
+- Developed features for care coordinators to efficiently filter and search for patients in the database by exposing RESTful APIs to an internal tool
+- Optimized daily automation tests to run 3x faster, leading to a more reliable and robust testing suite
 
 # Full Stack Developer @ Veriday
 __Product__, *Jan - Apr 2016*
-- Designed, developed, and presented a portal web application to enhance the compliance and workflow process of a content management system using RESTful APIs, MVC architectural patterns, and various ```javascript``` libraries (```backbone.js, underscore.js, bootstrap, jQuery```)
-- Refactored client UI and frontend/backend code to improve loading speed by 20%
-- Was awarded as the intern with the greatest performance for the term :)
+*javascript, backbone.js, underscore.js, jQuery, CSS, HTML*
+- Developed a portal web application to enhance the user experience of a compliance workflow process for a content management system using RESTful APIs and MVC architectural patterns
+- Recognized as the intern with the greatest performance for the number of features shipped to production
