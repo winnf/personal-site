@@ -10,10 +10,6 @@ body {
     padding: 1rem;
 }
 
-strong, b, h1, h2, h3, h4 {
-	font-weight: bold;
-}
-
 hr {
     background: black;
     border: 0;
@@ -54,7 +50,9 @@ nav {
     }
     a {
         margin: 0.5rem;
-        text-transform: uppercase;
+        text-transform: lowercase;
+        font-weight: normal;
+        text-decoration: none;
     }
 }
 

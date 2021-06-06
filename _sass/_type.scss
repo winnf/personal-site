@@ -9,7 +9,7 @@ body {
 }
 
 header p strong {
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 .post-title {
@@ -17,12 +17,14 @@ header p strong {
     margin: 10rem 0;
     color: white;
     padding: 2rem;
-    font-weight: bold;
+    font-weight: 300;
+    text-align: center;
 }
 
 a,a:visited {
   color: black;
-  font-weight: bold;
+  font-weight: normal;
+  text-decoration: none;
 
   &:hover {
     color: dodgerblue;
