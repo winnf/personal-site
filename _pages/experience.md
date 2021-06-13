@@ -5,9 +5,10 @@ title: Experience
 
 # Software Engineering Program Manager @ Apple
 __Special Projects Group__, *May 2019 - Present (Full-time), Jan - Sept 2018 (Intern)*
-- Led the embedded software team from project ideation to feature completion; ultimately delivered multiple successful prototype demonstrations to Apple executives
-- Wrote shell scripts to automate data extraction process; reduced extraction time by 97%
-- Designed and established a new software process to align cross functional teams across the organization, which led to timely and extensively tested software deliveries to support program milestones
+- Built iOS features to support user studies and rapid prototyping using SwiftUI, ResearchKit, HealthCloud 
+- Led the embedded software team from product ideation to delivery; ultimately resulted in multiple successful prototype demonstrations to Apple executives
+- Wrote shell scripts to automate data extraction process; reduced extraction time by 97% 
+- Formulated product/user requirements and led process of requirements decomposition to software design, implementation, and test
 
 # Software Engineering Intern @ if(we)
 __Monetization__, *Apr - Sept 2017*
